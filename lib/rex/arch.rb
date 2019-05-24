@@ -55,7 +55,8 @@ module Arch
       ARCH_NODEJS    = 'nodejs',
       ARCH_FIREFOX   = 'firefox',
       ARCH_ZARCH     = 'zarch',
-      ARCH_R         = 'r'
+      ARCH_R         = 'r',
+      ARCH_CLR       = 'clr'
     ]
 
   #
