@@ -56,7 +56,8 @@ module Arch
       ARCH_FIREFOX   = 'firefox',
       ARCH_ZARCH     = 'zarch',
       ARCH_R         = 'r',
-      ARCH_CLR       = 'clr'
+      ARCH_CLR2      = 'clr2',
+      ARCH_CLR4      = 'clr4'
     ]
 
   #
